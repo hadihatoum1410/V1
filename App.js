@@ -44,14 +44,6 @@ const App = () => {
 export default App;
 ```
 
-### JSON File (for storing captured data):
 
-```json
-// data.json
 
-{
-  "capturedData": []
-}
-```
 
-Remember, this is a basic example, and in a production environment, you'd need to implement proper security measures, database integration, error handling, and more. Additionally, for secure communication, you might want to use HTTPS for your backend server.
